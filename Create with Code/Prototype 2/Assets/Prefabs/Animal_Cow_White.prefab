@@ -1,0 +1,2077 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &40214041000378865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2018011944478355906}
+  m_Layer: 0
+  m_Name: CowRig_Head_JawSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2018011944478355906
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 40214041000378865}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.17279108, y: -0.17279108, z: 0.68566996, w: 0.68566996}
+  m_LocalPosition: {x: -3.2544165, y: -1.7289683e-13, z: 7.950005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9138942545052572522}
+  m_Father: {fileID: 1761195483852508146}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &141879885261174536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4518982560195519867}
+  m_Layer: 0
+  m_Name: CowRig_r_HindLeg_ToeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4518982560195519867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141879885261174536}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.0815794, y: 8.881784e-16, z: -1.3252022}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 708986646343039254}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &164850458103125107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7973090852970787003}
+  m_Layer: 0
+  m_Name: CowRig_r_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7973090852970787003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 164850458103125107}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.737868e-17, y: -0.027281087, z: 2.5252689e-15, w: 0.9996278}
+  m_LocalPosition: {x: -4.246489, y: 9.3258734e-14, z: 2.6645353e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 36922007927209053}
+  m_Father: {fileID: 6592768334703490602}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &516287307270665561
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6592768334703490602}
+  m_Layer: 0
+  m_Name: CowRig_r_FrontLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6592768334703490602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 516287307270665561}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.3511694e-16, y: -0.038044825, z: 2.5701953e-15, w: 0.99927604}
+  m_LocalPosition: {x: -4.5438857, y: 1.03916875e-13, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7973090852970787003}
+  m_Father: {fileID: 4666450745268294209}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &767948295408610787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 183393810331421937}
+  m_Layer: 0
+  m_Name: CowRig_l_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &183393810331421937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 767948295408610787}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.05223042, y: 0.05223042, z: 0.70517516, w: 0.70517516}
+  m_LocalPosition: {x: -5.0481524, y: -1, z: -0.21755739}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 785739392883092665}
+  m_Father: {fileID: 980898300244778981}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &780067545388398070
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3235548922797780501}
+  m_Layer: 0
+  m_Name: CowRig_Spine_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3235548922797780501
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780067545388398070}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000001421896, y: -1.6226355e-16, z: -8.374071e-15, w: 1}
+  m_LocalPosition: {x: -6.4663696, y: 8.8734e-14, z: -0.0035224024}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2134798459042342020}
+  m_Father: {fileID: 8182574922122837342}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &902292254780495133
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 665669732232454908}
+  m_Layer: 0
+  m_Name: CowRig_Tail_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &665669732232454908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 902292254780495133}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.6762443, y: 1.4210855e-14, z: -3.9412917e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3524215421797856674}
+  m_Father: {fileID: 3582938178581864380}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &956145446116171504
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2273328124159372109}
+  - component: {fileID: 5209533809650911105}
+  m_Layer: 0
+  m_Name: SA_Animals_Cow_White
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2273328124159372109
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956145446116171504}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4323229702359260123}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5209533809650911105
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956145446116171504}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 185ca34253615de44926902d54fb6f1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300004, guid: f18cd949d6d73cb459e428cd63e6ac27, type: 3}
+  m_Bones:
+  - {fileID: 980898300244778981}
+  - {fileID: 8254918202018801417}
+  - {fileID: 8182574922122837342}
+  - {fileID: 3235548922797780501}
+  - {fileID: 2134798459042342020}
+  - {fileID: 1697477455084569009}
+  - {fileID: 1332378561237894537}
+  - {fileID: 6342712164049290143}
+  - {fileID: 2112485645816057678}
+  - {fileID: 5771386618310402303}
+  - {fileID: 8008577490530773384}
+  - {fileID: 6425838516026851921}
+  - {fileID: 7801755536679005263}
+  - {fileID: 6952882058256503600}
+  - {fileID: 4666450745268294209}
+  - {fileID: 6592768334703490602}
+  - {fileID: 7973090852970787003}
+  - {fileID: 36922007927209053}
+  - {fileID: 4092725099906237275}
+  - {fileID: 894515893825663457}
+  - {fileID: 7782820903488631416}
+  - {fileID: 1761195483852508146}
+  - {fileID: 2018011944478355906}
+  - {fileID: 9138942545052572522}
+  - {fileID: 4347190315133388068}
+  - {fileID: 3931032785906369773}
+  - {fileID: 1777407495476382503}
+  - {fileID: 183393810331421937}
+  - {fileID: 785739392883092665}
+  - {fileID: 7423633641206023435}
+  - {fileID: 2797044597726007602}
+  - {fileID: 7787370959965486033}
+  - {fileID: 8188540859647739536}
+  - {fileID: 3439911650821468618}
+  - {fileID: 8863781196652259842}
+  - {fileID: 5936478007915988415}
+  - {fileID: 5061347399806278753}
+  - {fileID: 708986646343039254}
+  - {fileID: 4518982560195519867}
+  - {fileID: 8291121995588995303}
+  - {fileID: 8939663360129596067}
+  - {fileID: 3582938178581864380}
+  - {fileID: 665669732232454908}
+  - {fileID: 3524215421797856674}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 980898300244778981}
+  m_AABB:
+    m_Center: {x: 0, y: -7.0392914, z: 19.432642}
+    m_Extent: {x: 5.5862083, y: 16.289497, z: 24.204412}
+  m_DirtyAABB: 0
+--- !u!1 &1075393666017107788
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1332378561237894537}
+  m_Layer: 0
+  m_Name: CowRig_l_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1332378561237894537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1075393666017107788}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.46150416, y: 0.46150416, z: 0.5357368, w: 0.5357368}
+  m_LocalPosition: {x: -3.6131086, y: -2.6645353e-15, z: 1.7474079}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6342712164049290143}
+  m_Father: {fileID: 1697477455084569009}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1685603768512735166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3524215421797856674}
+  m_Layer: 0
+  m_Name: CowRig_Tail_01_05SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3524215421797856674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1685603768512735166}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.672139, y: 1.4210855e-14, z: -3.8857806e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 665669732232454908}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1752786249928101907
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3439911650821468618}
+  m_Layer: 0
+  m_Name: CowRig_r_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3439911650821468618
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1752786249928101907}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.05223042, y: 0.05223042, z: 0.70517516, w: 0.70517516}
+  m_LocalPosition: {x: 5.0481524, y: -1, z: -0.21755739}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8863781196652259842}
+  m_Father: {fileID: 980898300244778981}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1849755851084754408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9138942545052572522}
+  m_Layer: 0
+  m_Name: CowRig_Head_JawEndSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9138942545052572522
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849755851084754408}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.6116249, y: -0, z: -0, w: 0.7911479}
+  m_LocalPosition: {x: -5.2235058e-14, y: 0.2374181, z: 2.8940983}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2018011944478355906}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1943905785953248890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1030111113572130138}
+  - component: {fileID: 5816372605762041419}
+  m_Layer: 0
+  m_Name: SA_Animals_Bull_Brown
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1030111113572130138
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943905785953248890}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4323229702359260123}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5816372605762041419
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943905785953248890}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 185ca34253615de44926902d54fb6f1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300006, guid: f18cd949d6d73cb459e428cd63e6ac27, type: 3}
+  m_Bones:
+  - {fileID: 980898300244778981}
+  - {fileID: 8254918202018801417}
+  - {fileID: 8182574922122837342}
+  - {fileID: 3235548922797780501}
+  - {fileID: 2134798459042342020}
+  - {fileID: 1697477455084569009}
+  - {fileID: 1332378561237894537}
+  - {fileID: 6342712164049290143}
+  - {fileID: 2112485645816057678}
+  - {fileID: 5771386618310402303}
+  - {fileID: 8008577490530773384}
+  - {fileID: 6425838516026851921}
+  - {fileID: 7801755536679005263}
+  - {fileID: 6952882058256503600}
+  - {fileID: 4666450745268294209}
+  - {fileID: 6592768334703490602}
+  - {fileID: 7973090852970787003}
+  - {fileID: 36922007927209053}
+  - {fileID: 4092725099906237275}
+  - {fileID: 894515893825663457}
+  - {fileID: 7782820903488631416}
+  - {fileID: 1761195483852508146}
+  - {fileID: 2018011944478355906}
+  - {fileID: 9138942545052572522}
+  - {fileID: 4347190315133388068}
+  - {fileID: 3931032785906369773}
+  - {fileID: 1777407495476382503}
+  - {fileID: 183393810331421937}
+  - {fileID: 785739392883092665}
+  - {fileID: 7423633641206023435}
+  - {fileID: 2797044597726007602}
+  - {fileID: 7787370959965486033}
+  - {fileID: 8188540859647739536}
+  - {fileID: 3439911650821468618}
+  - {fileID: 8863781196652259842}
+  - {fileID: 5936478007915988415}
+  - {fileID: 5061347399806278753}
+  - {fileID: 708986646343039254}
+  - {fileID: 4518982560195519867}
+  - {fileID: 8291121995588995303}
+  - {fileID: 8939663360129596067}
+  - {fileID: 3582938178581864380}
+  - {fileID: 665669732232454908}
+  - {fileID: 3524215421797856674}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 980898300244778981}
+  m_AABB:
+    m_Center: {x: 0, y: -4.701131, z: 21.81264}
+    m_Extent: {x: 9.711727, y: 18.627655, z: 26.838194}
+  m_DirtyAABB: 0
+--- !u!1 &1954447284466383915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5936478007915988415}
+  m_Layer: 0
+  m_Name: CowRig_r_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5936478007915988415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1954447284466383915}
+  serializedVersion: 2
+  m_LocalRotation: {x: -6.001575e-19, y: 0.28470242, z: 2.0207785e-18, w: 0.95861596}
+  m_LocalPosition: {x: -5.912659, y: 8.881784e-16, z: 3.5527137e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5061347399806278753}
+  m_Father: {fileID: 8863781196652259842}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2587377547392327012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 894515893825663457}
+  m_Layer: 0
+  m_Name: CowRig_Neck_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &894515893825663457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2587377547392327012}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0000000066251635, y: -0.31738254, z: -0.000000019715866, w: 0.9482976}
+  m_LocalPosition: {x: -2.086262, y: 6.256712e-14, z: -0.783415}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7782820903488631416}
+  m_Father: {fileID: 2134798459042342020}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3126139584713786230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8291121995588995303}
+  m_Layer: 0
+  m_Name: CowRig_Tail_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8291121995588995303
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3126139584713786230}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 5.557149e-16, y: 2.685099, z: -1.3317893}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8939663360129596067}
+  m_Father: {fileID: 980898300244778981}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3214527798051648004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3114220844091006105}
+  - component: {fileID: 5916603258642729861}
+  - component: {fileID: -6976913221084342636}
+  - component: {fileID: -399349762335402093}
+  - component: {fileID: -8945467910348163337}
+  - component: {fileID: 3799159927839255119}
+  m_Layer: 0
+  m_Name: Animal_Cow_White
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3114220844091006105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3214527798051648004}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 7.9161196, y: 0, z: 6.8344507}
+  m_LocalScale: {x: 0.09, y: 0.09, z: 0.09}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4323229702359260123}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!95 &5916603258642729861
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3214527798051648004}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: f18cd949d6d73cb459e428cd63e6ac27, type: 3}
+  m_Controller: {fileID: 9100000, guid: d044bcc821b15eb40b3df145373ba26d, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-6976913221084342636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3214527798051648004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ffb887a04db739469cf45ab1ed52b6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+--- !u!114 &-399349762335402093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3214527798051648004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbafd6dfa12ad44795a6e4b79f6c401, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!65 &-8945467910348163337
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3214527798051648004}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 10, y: 30, z: 50}
+  m_Center: {x: 0, y: 15, z: 0}
+--- !u!114 &3799159927839255119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3214527798051648004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da8eac7cd48b0f34da97dd40da613908, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3335174716031719140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 785739392883092665}
+  m_Layer: 0
+  m_Name: CowRig_l_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &785739392883092665
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3335174716031719140}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.3766817e-16, y: -0.34492317, z: 6.591515e-16, w: 0.93863094}
+  m_LocalPosition: {x: -8.552183, y: -9.769963e-15, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7423633641206023435}
+  m_Father: {fileID: 183393810331421937}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3493277073216811511
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2112485645816057678}
+  m_Layer: 0
+  m_Name: CowRig_l_FrontLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2112485645816057678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3493277073216811511}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.6342163e-16, y: -0.038044825, z: 1.7915863e-15, w: 0.99927604}
+  m_LocalPosition: {x: -4.5438857, y: 1.0125234e-13, z: -8.881784e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5771386618310402303}
+  m_Father: {fileID: 6342712164049290143}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3697539448301664442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7782820903488631416}
+  m_Layer: 0
+  m_Name: CowRig_Neck_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7782820903488631416
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3697539448301664442}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.375242e-12, y: -1.0413697e-15, z: 1.6711298e-18, w: 1}
+  m_LocalPosition: {x: -1.8384526, y: 3.1064195e-14, z: -0.020564176}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1761195483852508146}
+  m_Father: {fileID: 894515893825663457}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3951152538249923888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6952882058256503600}
+  m_Layer: 0
+  m_Name: CowRig_r_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6952882058256503600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3951152538249923888}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.46150416, y: 0.46150416, z: 0.5357368, w: 0.5357368}
+  m_LocalPosition: {x: 3.6131086, y: -2.6645353e-15, z: 1.7474079}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4666450745268294209}
+  m_Father: {fileID: 7801755536679005263}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4341761506449583093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 708986646343039254}
+  m_Layer: 0
+  m_Name: CowRig_r_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &708986646343039254
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4341761506449583093}
+  serializedVersion: 2
+  m_LocalRotation: {x: 9.6818586e-17, y: 0.7071049, z: -9.68191e-17, w: 0.7071087}
+  m_LocalPosition: {x: -2.7119174, y: -1.7763568e-15, z: 0.36663532}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4518982560195519867}
+  m_Father: {fileID: 5061347399806278753}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4385321800589747651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 129468251140757710}
+  - component: {fileID: 6665698674415907918}
+  m_Layer: 0
+  m_Name: SA_Animals_Bull_Black
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &129468251140757710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4385321800589747651}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4323229702359260123}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6665698674415907918
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4385321800589747651}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 185ca34253615de44926902d54fb6f1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: f18cd949d6d73cb459e428cd63e6ac27, type: 3}
+  m_Bones:
+  - {fileID: 980898300244778981}
+  - {fileID: 8254918202018801417}
+  - {fileID: 8182574922122837342}
+  - {fileID: 3235548922797780501}
+  - {fileID: 2134798459042342020}
+  - {fileID: 1697477455084569009}
+  - {fileID: 1332378561237894537}
+  - {fileID: 6342712164049290143}
+  - {fileID: 2112485645816057678}
+  - {fileID: 5771386618310402303}
+  - {fileID: 8008577490530773384}
+  - {fileID: 6425838516026851921}
+  - {fileID: 7801755536679005263}
+  - {fileID: 6952882058256503600}
+  - {fileID: 4666450745268294209}
+  - {fileID: 6592768334703490602}
+  - {fileID: 7973090852970787003}
+  - {fileID: 36922007927209053}
+  - {fileID: 4092725099906237275}
+  - {fileID: 894515893825663457}
+  - {fileID: 7782820903488631416}
+  - {fileID: 1761195483852508146}
+  - {fileID: 2018011944478355906}
+  - {fileID: 9138942545052572522}
+  - {fileID: 4347190315133388068}
+  - {fileID: 3931032785906369773}
+  - {fileID: 1777407495476382503}
+  - {fileID: 183393810331421937}
+  - {fileID: 785739392883092665}
+  - {fileID: 7423633641206023435}
+  - {fileID: 2797044597726007602}
+  - {fileID: 7787370959965486033}
+  - {fileID: 8188540859647739536}
+  - {fileID: 3439911650821468618}
+  - {fileID: 8863781196652259842}
+  - {fileID: 5936478007915988415}
+  - {fileID: 5061347399806278753}
+  - {fileID: 708986646343039254}
+  - {fileID: 4518982560195519867}
+  - {fileID: 8291121995588995303}
+  - {fileID: 8939663360129596067}
+  - {fileID: 3582938178581864380}
+  - {fileID: 665669732232454908}
+  - {fileID: 3524215421797856674}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 980898300244778981}
+  m_AABB:
+    m_Center: {x: 0, y: -4.701131, z: 21.81264}
+    m_Extent: {x: 9.711727, y: 18.627655, z: 26.838194}
+  m_DirtyAABB: 0
+--- !u!1 &4547817490254370374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8182574922122837342}
+  m_Layer: 0
+  m_Name: CowRig_Spine_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8182574922122837342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4547817490254370374}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000001421896, y: -7.794761e-17, z: 1.9753858e-16, w: 1}
+  m_LocalPosition: {x: -6.258605, y: 6.8971167e-17, z: -0.010353951}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3235548922797780501}
+  m_Father: {fileID: 8254918202018801417}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4889695052310812280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4666450745268294209}
+  m_Layer: 0
+  m_Name: CowRig_r_FrontLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4666450745268294209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4889695052310812280}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.201502e-19, y: 0.13918605, z: 4.4371572e-16, w: 0.99026626}
+  m_LocalPosition: {x: -10.075148, y: 2.1671553e-13, z: 2.220446e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6592768334703490602}
+  m_Father: {fileID: 6952882058256503600}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4938721259284736748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7801755536679005263}
+  m_Layer: 0
+  m_Name: CowRig_r_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7801755536679005263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4938721259284736748}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 1.687539e-14, y: 0.9673913, z: 3.907985e-14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6952882058256503600}
+  m_Father: {fileID: 2134798459042342020}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4939536124580443813
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8863781196652259842}
+  m_Layer: 0
+  m_Name: CowRig_r_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8863781196652259842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4939536124580443813}
+  serializedVersion: 2
+  m_LocalRotation: {x: -9.5368465e-18, y: -0.34492317, z: -4.9662263e-17, w: 0.93863094}
+  m_LocalPosition: {x: -8.552183, y: 8.881784e-16, z: -3.5527137e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5936478007915988415}
+  m_Father: {fileID: 3439911650821468618}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4951661275943719805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1697477455084569009}
+  m_Layer: 0
+  m_Name: CowRig_l_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1697477455084569009
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4951661275943719805}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -2.1316282e-14, y: -0.9673913, z: -7.1054274e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1332378561237894537}
+  m_Father: {fileID: 2134798459042342020}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5017148140253744438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3582938178581864380}
+  m_Layer: 0
+  m_Name: CowRig_Tail_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3582938178581864380
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5017148140253744438}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.3279667, y: -7.1054274e-15, z: -2.164935e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 665669732232454908}
+  m_Father: {fileID: 8939663360129596067}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5228592252947999442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3931032785906369773}
+  m_Layer: 0
+  m_Name: CowRig_l_Eye_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3931032785906369773
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5228592252947999442}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.5948026, y: -0.0415639, z: -0.03894414, w: 0.8018514}
+  m_LocalPosition: {x: -3.514648, y: 0.37611854, z: 0.6284895}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4347190315133388068}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5784315525437872031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4347190315133388068}
+  m_Layer: 0
+  m_Name: CowRig_Head_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4347190315133388068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5784315525437872031}
+  serializedVersion: 2
+  m_LocalRotation: {x: -5.551116e-17, y: -5.551116e-17, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -3, y: 4.54796e-16, z: -3.5527137e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3931032785906369773}
+  - {fileID: 1777407495476382503}
+  m_Father: {fileID: 1761195483852508146}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6114574354052897682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2134798459042342020}
+  m_Layer: 0
+  m_Name: CowRig_Spine_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2134798459042342020
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6114574354052897682}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.3501099e-16, y: 0.016433895, z: -1.0238068e-14, w: 0.999865}
+  m_LocalPosition: {x: -8.275755, y: 1.6890439e-13, z: 0.0559723}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1697477455084569009}
+  - {fileID: 894515893825663457}
+  - {fileID: 7801755536679005263}
+  m_Father: {fileID: 3235548922797780501}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6115555498415184478
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1162441937501130409}
+  - component: {fileID: 2752696775733005840}
+  m_Layer: 0
+  m_Name: SA_Animals_Cow_Brown
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1162441937501130409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6115555498415184478}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4323229702359260123}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2752696775733005840
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6115555498415184478}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 185ca34253615de44926902d54fb6f1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: f18cd949d6d73cb459e428cd63e6ac27, type: 3}
+  m_Bones:
+  - {fileID: 980898300244778981}
+  - {fileID: 8254918202018801417}
+  - {fileID: 8182574922122837342}
+  - {fileID: 3235548922797780501}
+  - {fileID: 2134798459042342020}
+  - {fileID: 1697477455084569009}
+  - {fileID: 1332378561237894537}
+  - {fileID: 6342712164049290143}
+  - {fileID: 2112485645816057678}
+  - {fileID: 5771386618310402303}
+  - {fileID: 8008577490530773384}
+  - {fileID: 6425838516026851921}
+  - {fileID: 7801755536679005263}
+  - {fileID: 6952882058256503600}
+  - {fileID: 4666450745268294209}
+  - {fileID: 6592768334703490602}
+  - {fileID: 7973090852970787003}
+  - {fileID: 36922007927209053}
+  - {fileID: 4092725099906237275}
+  - {fileID: 894515893825663457}
+  - {fileID: 7782820903488631416}
+  - {fileID: 1761195483852508146}
+  - {fileID: 2018011944478355906}
+  - {fileID: 9138942545052572522}
+  - {fileID: 4347190315133388068}
+  - {fileID: 3931032785906369773}
+  - {fileID: 1777407495476382503}
+  - {fileID: 183393810331421937}
+  - {fileID: 785739392883092665}
+  - {fileID: 7423633641206023435}
+  - {fileID: 2797044597726007602}
+  - {fileID: 7787370959965486033}
+  - {fileID: 8188540859647739536}
+  - {fileID: 3439911650821468618}
+  - {fileID: 8863781196652259842}
+  - {fileID: 5936478007915988415}
+  - {fileID: 5061347399806278753}
+  - {fileID: 708986646343039254}
+  - {fileID: 4518982560195519867}
+  - {fileID: 8291121995588995303}
+  - {fileID: 8939663360129596067}
+  - {fileID: 3582938178581864380}
+  - {fileID: 665669732232454908}
+  - {fileID: 3524215421797856674}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 980898300244778981}
+  m_AABB:
+    m_Center: {x: 0, y: -7.0392914, z: 19.432642}
+    m_Extent: {x: 5.5862083, y: 16.289497, z: 24.204412}
+  m_DirtyAABB: 0
+--- !u!1 &6298721858000599575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1761195483852508146}
+  m_Layer: 0
+  m_Name: CowRig_Neck_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1761195483852508146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6298721858000599575}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.6700561e-16, y: 0.0016047778, z: 1.1128838e-16, w: 0.99999875}
+  m_LocalPosition: {x: -2.2471187, y: -2.1689855e-16, z: 0.009899238}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2018011944478355906}
+  - {fileID: 4347190315133388068}
+  m_Father: {fileID: 7782820903488631416}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6703387767762873967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4092725099906237275}
+  m_Layer: 0
+  m_Name: CowRig_r_FrontLeg_ToeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4092725099906237275
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6703387767762873967}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.1864672, y: 3.1086245e-14, z: -1.3599976}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 36922007927209053}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6956072836017666687
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4323229702359260123}
+  m_Layer: 0
+  m_Name: CowRig_SHJntGrp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4323229702359260123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6956072836017666687}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 980898300244778981}
+  - {fileID: 129468251140757710}
+  - {fileID: 1030111113572130138}
+  - {fileID: 1162441937501130409}
+  - {fileID: 2273328124159372109}
+  m_Father: {fileID: 3114220844091006105}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7017335872547657250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8939663360129596067}
+  m_Layer: 0
+  m_Name: CowRig_Tail_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8939663360129596067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7017335872547657250}
+  serializedVersion: 2
+  m_LocalRotation: {x: 7.45794e-16, y: -1.6093449e-15, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -2.504796, y: -1.6330869, z: 8.8445116e-16}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3582938178581864380}
+  m_Father: {fileID: 8291121995588995303}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7232384345476274568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 980898300244778981}
+  m_Layer: 0
+  m_Name: CowRig_ROOTSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &980898300244778981
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7232384345476274568}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.9443045e-31, y: 23.328762, z: -19.141205}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 183393810331421937}
+  - {fileID: 3439911650821468618}
+  - {fileID: 8254918202018801417}
+  - {fileID: 8291121995588995303}
+  m_Father: {fileID: 4323229702359260123}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7485588042120951530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8254918202018801417}
+  m_Layer: 0
+  m_Name: CowRig_Spine_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8254918202018801417
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7485588042120951530}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.49171552, y: 0.49171552, z: -0.50814945, w: 0.50814945}
+  m_LocalPosition: {x: 3.9443045e-31, y: 0.21602744, z: 5.2890077}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8182574922122837342}
+  m_Father: {fileID: 980898300244778981}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7548064900227707039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8188540859647739536}
+  m_Layer: 0
+  m_Name: CowRig_l_HindLeg_ToeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8188540859647739536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7548064900227707039}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.5000015, y: 0.4999985, z: 0.4999985, w: 0.5000015}
+  m_LocalPosition: {x: -5.0481524, y: 0.000006310851, z: -18.672718}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7787370959965486033}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7705104169274681477
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6342712164049290143}
+  m_Layer: 0
+  m_Name: CowRig_l_FrontLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6342712164049290143
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7705104169274681477}
+  serializedVersion: 2
+  m_LocalRotation: {x: -5.3638403e-18, y: 0.13918605, z: -1.980304e-16, w: 0.99026626}
+  m_LocalPosition: {x: -10.075148, y: 2.3714364e-13, z: 1.3322676e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2112485645816057678}
+  m_Father: {fileID: 1332378561237894537}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7845213656565724451
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7787370959965486033}
+  m_Layer: 0
+  m_Name: CowRig_l_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7787370959965486033
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7845213656565724451}
+  serializedVersion: 2
+  m_LocalRotation: {x: -2.2027824e-16, y: 0.7071049, z: 2.2027941e-16, w: 0.7071087}
+  m_LocalPosition: {x: -2.7119174, y: -8.881784e-16, z: 0.36663532}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8188540859647739536}
+  m_Father: {fileID: 2797044597726007602}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8002887003399064654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6425838516026851921}
+  m_Layer: 0
+  m_Name: CowRig_l_FrontLeg_ToeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6425838516026851921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8002887003399064654}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.1864672, y: 3.28626e-14, z: -1.3599976}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8008577490530773384}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8021175609165865432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2797044597726007602}
+  m_Layer: 0
+  m_Name: CowRig_l_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2797044597726007602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8021175609165865432}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.0039425e-18, y: -0.0104714725, z: 3.9476775e-16, w: 0.99994516}
+  m_LocalPosition: {x: -4.813167, y: -8.881784e-16, z: -3.5527137e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7787370959965486033}
+  m_Father: {fileID: 7423633641206023435}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8169596509723336185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1777407495476382503}
+  m_Layer: 0
+  m_Name: CowRig_r_Eye_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1777407495476382503
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8169596509723336185}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.041563816, y: -0.5948026, z: 0.8018514, w: -0.03894411}
+  m_LocalPosition: {x: 3.514648, y: 0.37611854, z: 0.6284895}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4347190315133388068}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8720091595938201396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5061347399806278753}
+  m_Layer: 0
+  m_Name: CowRig_r_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5061347399806278753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8720091595938201396}
+  serializedVersion: 2
+  m_LocalRotation: {x: 6.00716e-19, y: -0.0104714725, z: -5.3652453e-17, w: 0.99994516}
+  m_LocalPosition: {x: -4.813167, y: -5.3290705e-15, z: -7.1054274e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 708986646343039254}
+  m_Father: {fileID: 5936478007915988415}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8822325000412618090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 36922007927209053}
+  m_Layer: 0
+  m_Name: CowRig_r_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &36922007927209053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8822325000412618090}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.7273916e-15, y: 0.7071068, z: 1.7273916e-15, w: 0.7071068}
+  m_LocalPosition: {x: -2.3760414, y: 5.062617e-14, z: 0.3435389}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4092725099906237275}
+  m_Father: {fileID: 7973090852970787003}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8864127744878327462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5771386618310402303}
+  m_Layer: 0
+  m_Name: CowRig_l_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5771386618310402303
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8864127744878327462}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.633597e-17, y: -0.027281087, z: 1.7425779e-15, w: 0.9996278}
+  m_LocalPosition: {x: -4.246489, y: 1.0658141e-13, z: 3.5527137e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8008577490530773384}
+  m_Father: {fileID: 2112485645816057678}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8906286116181702875
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8008577490530773384}
+  m_Layer: 0
+  m_Name: CowRig_l_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8008577490530773384
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8906286116181702875}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.1737455e-15, y: 0.7071068, z: 1.1737455e-15, w: 0.7071068}
+  m_LocalPosition: {x: -2.3760414, y: 5.77316e-14, z: 0.3435389}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6425838516026851921}
+  m_Father: {fileID: 5771386618310402303}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9164782274071886236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7423633641206023435}
+  m_Layer: 0
+  m_Name: CowRig_l_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7423633641206023435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9164782274071886236}
+  serializedVersion: 2
+  m_LocalRotation: {x: 1.1538312e-16, y: 0.28470242, z: 4.353552e-16, w: 0.95861596}
+  m_LocalPosition: {x: -5.912659, y: -1.15463195e-14, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2797044597726007602}
+  m_Father: {fileID: 785739392883092665}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
