@@ -11,7 +11,7 @@ public class SpawnManager : MonoBehaviour
     // Spawning Enemy Function Parameters
     private int waveCount= 1;
     private float startTime = 2.5f;
-    private float repeatRate = 4;
+    private float repeatRate = 3;
 
     void Start()
     {
