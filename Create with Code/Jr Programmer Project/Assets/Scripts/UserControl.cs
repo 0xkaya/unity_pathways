@@ -27,6 +27,17 @@ public class UserControl : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
+            HandleSelection();
+        }
+        else if (m_Selected != null && Input.GetMouseButtonDown(1))
+        {//right click give order to the unit
+            HandleAction();
+        }
+        MarkerHandling();
+    }
+    
+    public void HandleSelection()
+    {
             var ray = GameCamera.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit))
@@ -41,9 +52,9 @@ public class UserControl : MonoBehaviour
                 var uiInfo = hit.collider.GetComponentInParent<UIMainScene.IUIInfoContent>();
                 UIMainScene.Instance.SetNewInfoContent(uiInfo);
             }
-        }
-        else if (m_Selected != null && Input.GetMouseButtonDown(1))
-        {//right click give order to the unit
+    }
+
+    public void HandleAction(){
             var ray = GameCamera.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit))
@@ -59,9 +70,6 @@ public class UserControl : MonoBehaviour
                     m_Selected.GoTo(hit.point);
                 }
             }
-        }
-
-        MarkerHandling();
     }
     
     // Handle displaying the marker above the unit that is currently selected (or hiding it if no unit is selected)
